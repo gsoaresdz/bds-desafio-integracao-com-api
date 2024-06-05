@@ -49,10 +49,7 @@ Antes de iniciar :checkered_flag:, você precisa ter [Node.js](https://nodejs.or
 
 ```bash
 # Clone do projeto
-$ git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Navegue até o diretório do projeto
-$ cd seu-repositorio
+$ git clone https://github.com/gsoaresdz/github-api.git
 
 # Instale as dependências
 $ yarn install
